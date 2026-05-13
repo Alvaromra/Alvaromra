@@ -6,6 +6,7 @@
 
 <p align="center">
   Network & Communications Engineering Student @ UnB <br>
+  Computer Science Student @ UniCEUB <br>
   Brasília, DF — Brazil
 </p>
 
@@ -22,7 +23,7 @@
 
 # 👨‍💻 About Me
 
-Network & Communications Engineering student at the Universidade de Brasília (UnB) with hands-on experience in infrastructure, DevOps, systems integration and AI-powered automation.
+Network & Communications Engineering student at the Universidade de Brasília (UnB) and Computer Science student at UniCEUB, with hands-on experience in infrastructure, DevOps, systems integration and AI-powered automation.
 
 Currently working with:
 - Linux infrastructure
