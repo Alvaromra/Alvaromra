@@ -1,68 +1,164 @@
 <h1 align="center">Alvaro Marcal de Araujo</h1>
 
 <p align="center">
-  <strong>Network & Communications Engineering • Infrastructure • DevOps • AI Automation</strong><br>
-  Brasília, DF, Brazil
+  <strong>Infrastructure • DevOps • Networking • AI Systems</strong>
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Welcome Banner" width="100%">
+  Network & Communications Engineering Student @ UnB <br>
+  Brasília, DF — Brazil
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/alvaro-marcal-23b310329">LinkedIn</a> •
+  <a href="https://github.com/Alvaromra">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
 </p>
 
 ---
 
-## 👋 About Me
+# 👨‍💻 About Me
 
-Student of **Network & Communications Engineering (UnB)** focused on infrastructure, DevOps, automation and applied AI.  
-Experience in **CI/CD pipelines**, **WSO2 integration**, **container orchestration**, and **local AI platforms (Ollama / GGUF)**.
+Network & Communications Engineering student at the Universidade de Brasília (UnB) with hands-on experience in infrastructure, DevOps, systems integration and AI-powered automation.
 
-Professional background includes:
-- Corporate environment experience  
-- Weekly technical alignment meetings  
-- Collaboration with international teams  
-- Technical documentation and automation of internal processes  
+Currently working with:
+- Linux infrastructure
+- Dockerized environments
+- CI/CD pipelines
+- WSO2 integrations
+- REST APIs
+- Local AI systems with Ollama and GGUF models
 
-I enjoy designing solutions that blend **networking + automation + AI** to build scalable and efficient systems.
+Experience with automation, troubleshooting, technical documentation and support for internal critical services.
 
----
-
-## 🚀 Projects (In Development)
-
-### 🧠 SalaryAI Suite — Self-Learning Neural Engine  
-AI platform for salary prediction and intelligent data analysis.  
-- Continuous retraining  
-- Dataset expansion  
-- Performance dashboards  
-- GGUF + LoRA compatibility  
-- Modular Python backend (Flask + SQLite)
+Interested in building scalable systems combining networking, backend infrastructure and applied artificial intelligence.
 
 ---
 
-### 📄 ScanDocs AI — Local Document Intelligence  
-- Reads PDF, DOCX, CSV, XLSX, JSON, TXT, HTML, logs  
-- Pattern extraction (CPF/CNPJ, e-mail, URL, dates, values, phones)  
-- RAG with TF-IDF + automatic reindexing  
-- FastAPI + PostgreSQL + Flask under Docker Compose  
-- Local LLM integration via Ollama  
-- Training panel (LoRA/GGUF), AI status, floating SAA chat  
+# 🚀 Featured Projects
+
+## 📄 ScanDocs AI — Local Document Intelligence Platform
+
+AI-powered document processing platform focused on local and private environments.
+
+### Features
+- PDF, DOCX, CSV, XLSX, JSON and TXT processing
+- Intelligent pattern extraction
+- RAG architecture with automatic reindexing
+- Local LLM integration via Ollama
+- LoRA/GGUF training compatibility
+- Floating AI assistant interface
+- FastAPI + Flask + PostgreSQL architecture
+- Docker Compose deployment
+
+### Technologies
+`Python` `FastAPI` `Flask` `PostgreSQL` `Docker` `Ollama` `RAG`
 
 ---
 
-### 🏠 Primeiro-Imovel-Pro  
-Financial planning tool for mortgage simulation.  
+## 🧠 SalaryAI Suite — AI Salary Prediction Engine
+
+Self-learning platform for salary prediction and intelligent data analysis.
+
+### Features
+- Continuous retraining
+- Performance dashboards
+- Modular backend
+- Local AI model support
+- Dataset expansion pipeline
+
+### Technologies
+`Python` `Flask` `SQLite` `GGUF` `LoRA`
 
 ---
 
-## 🧰 Tech Stack
+## 🏠 Primeiro-Imovel-Pro
 
-**Infrastructure & DevOps:** Docker, Docker Compose, Ansible, GitLab CI/CD, Jenkins, IaC, OpenShift  
-**AI & Automation:** Python, LLMs (GGUF/LoRA), Ollama, TF-IDF, RAG  
-**Backend/Frontend:** Flask, FastAPI, Node.js, React, PostgreSQL, SQLite  
-**Networking:** TCP/IP, OSPF, BGP, VLANs, DNS, VPNs, Firewalls  
+Financial planning platform for mortgage and property simulation.
+
+### Features
+- Financing simulation
+- Financial projections
+- Planning calculations
+
+### Technologies
+`Python`
 
 ---
 
-## 📊 GitHub Stats
+# 🧰 Technical Skills
+
+## Infrastructure & DevOps
+- Linux
+- Docker
+- Docker Compose
+- Ansible
+- GitLab CI/CD
+- Jenkins
+- OpenShift
+- Nginx
+- Apache
+
+## AI & Automation
+- Python
+- LLMs
+- Ollama
+- RAG
+- TF-IDF
+- GGUF
+- LoRA
+
+## Backend & Databases
+- FastAPI
+- Flask
+- REST APIs
+- PostgreSQL
+- SQLite
+- JSON
+- YAML
+
+## Networking
+- TCP/IP
+- VLAN
+- OSPF
+- BGP
+- DNS
+- VPN
+- Firewalls
+
+---
+
+# 🏢 Experience
+
+## Infrastructure & DevOps Intern
+**Heiliger Tecnologia e Software**  
+*Apr 2025 — Mar 2026*
+
+- Infrastructure support and troubleshooting
+- Deployment automation using Ansible
+- REST API integrations
+- Linux server administration
+- Containerized services support
+
+---
+
+## Volunteer — Exata Falada Project (AI & Digital Accessibility)
+**Universidade de Brasília (UnB)**  
+*2026 — Present*
+
+Project focused on accessibility and AI-assisted educational content adaptation.
+
+- Accessible HTML validation
+- OCR and AI-assisted workflows
+- Accessibility testing and improvements
+- Semantic HTML and ARIA support
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alvaromra&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -71,9 +167,19 @@ Financial planning tool for mortgage simulation.
 
 ---
 
-## 📫 Contact
+# 📚 Currently Learning
 
-📧 **alvaromra2@gmail.com**  
-🔗 **https://linkedin.com/in/alvaro-marcal-23b310329**
+- Kubernetes
+- Cloud Infrastructure
+- AI Infrastructure
+- Distributed Systems
+- Platform Engineering
 
 ---
+
+# 📫 Contact
+
+📧 alvaromra2@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/alvaro-marcal-23b310329
