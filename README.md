@@ -76,6 +76,26 @@ Self-learning platform for salary prediction and intelligent data analysis.
 
 ---
 
+## 🛡️ ALVSafe Antivirus
+
+Cross-platform antivirus and endpoint protection platform developed in Python.
+
+### Features
+- File scanning engine
+- Heuristic malware detection
+- YARA rule integration
+- Real-time monitoring
+- Ransomware protection
+- Quarantine management
+- Web dashboard and GUI
+- Basic firewall module
+- VirusTotal integration
+
+### Technologies
+`Python` `YARA` `Flask` `SQLite` `Watchdog`
+
+---
+
 ## 🏠 Primeiro-Imovel-Pro
 
 Financial planning platform for mortgage and property simulation.
