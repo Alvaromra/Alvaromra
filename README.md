@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alvaro-marcal-23b310329">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/alvaro-marcal-dearaujo/">LinkedIn</a> •
   <a href="https://github.com/Alvaromra">GitHub</a>
 </p>
 
@@ -183,4 +183,4 @@ Project focused on accessibility and AI-assisted educational content adaptation.
 📧 alvaromra2@gmail.com
 
 🔗 LinkedIn:
-https://linkedin.com/in/alvaro-marcal-23b310329
+https://www.linkedin.com/in/alvaro-marcal-dearaujo/
