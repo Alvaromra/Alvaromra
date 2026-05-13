@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/51616bfb-7184-4919-ab29-cc72a41219dd" alt="Banner" width="100%">
 </p>
 
 ---
