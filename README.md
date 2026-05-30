@@ -23,23 +23,40 @@
 
 # 👨‍💻 About Me
 
-Network & Communications Engineering student at the Universidade de Brasília (UnB) and Computer Science student at UniCEUB, with hands-on experience in infrastructure, DevOps, systems integration and AI-powered automation.
+Network & Communications Engineering student at the Universidade de Brasília (UnB) and Computer Science student at UniCEUB.
 
-Currently working with:
-- Linux infrastructure
-- Dockerized environments
-- CI/CD pipelines
-- WSO2 integrations
-- REST APIs
-- Local AI systems with Ollama and GGUF models
+Experience in Infrastructure, DevOps, Systems Integration, Accessibility Technologies and AI-powered applications.
 
-Experience with automation, troubleshooting, technical documentation and support for internal critical services.
+Currently working with Linux environments, containerized services, automation pipelines, WSO2 platforms, cloud-native tools and local AI systems.
 
-Interested in building scalable systems combining networking, backend infrastructure and applied artificial intelligence.
+Active contributor to academic and extension projects involving Artificial Intelligence, Digital Accessibility, Document Processing and Educational Technology.
+
+Interested in Infrastructure Engineering, Platform Engineering, DevOps, Networking and Applied Artificial Intelligence.
 
 ---
 
 # 🚀 Featured Projects
+
+## 🎵 Spotify PiP Lyrics — Real-Time Floating Lyrics Overlay
+
+Desktop application that displays synchronized Spotify lyrics in a floating Picture-in-Picture (PiP) window, providing a lightweight and distraction-free music experience.
+
+### Features
+- Real-time Spotify playback detection
+- Automatic lyrics synchronization
+- Floating always-on-top PiP overlay
+- Spotify OAuth authentication
+- Cross-platform architecture (Windows, Linux and macOS)
+- Electron-based desktop application
+- Responsive and minimalist interface
+- Automatic track change detection
+- Local secure token management
+- Multi-monitor support
+
+### Technologies
+`Electron` `Node.js` `JavaScript` `Spotify Web API` `OAuth 2.0` `HTML` `CSS`
+
+---
 
 ## 📄 ScanDocs AI — Local Document Intelligence Platform
 
@@ -96,6 +113,43 @@ Cross-platform antivirus and endpoint protection platform developed in Python.
 
 ---
 
+## ♿ Exata Falada — AI & Digital Accessibility Platform
+
+Academic extension project focused on making educational materials more accessible through Artificial Intelligence and assistive technologies.
+
+### Features
+- OCR-based document processing
+- Accessible HTML generation
+- Screen reader optimization
+- ARIA implementation
+- Text-to-Speech integration
+- Mathematical content accessibility
+- Accessibility validation workflows
+- Educational inclusion support
+
+### Technologies
+`HTML` `CSS` `JavaScript` `OCR` `AI` `ARIA` `Accessibility`
+
+---
+
+## 🚌 Smart Bus Tracking System (Research Project)
+
+Research concept focused on intelligent public transportation monitoring using emerging communication technologies and Artificial Intelligence.
+
+### Features
+- Real-time vehicle tracking
+- GPS-based positioning
+- Predictive arrival estimation
+- Intelligent route analysis
+- Smart city integration
+- Future 6G connectivity support
+- AI-assisted transportation analytics
+
+### Technologies
+`Python` `GPS` `AI` `Networking` `IoT` `6G`
+
+---
+
 ## 🏠 Primeiro-Imovel-Pro
 
 Financial planning platform for mortgage and property simulation.
@@ -116,12 +170,15 @@ Financial planning platform for mortgage and property simulation.
 - Linux
 - Docker
 - Docker Compose
+- Kubernetes
 - Ansible
 - GitLab CI/CD
 - Jenkins
 - OpenShift
 - Nginx
 - Apache
+- Git
+- Bash
 
 ## AI & Automation
 - Python
@@ -131,6 +188,7 @@ Financial planning platform for mortgage and property simulation.
 - TF-IDF
 - GGUF
 - LoRA
+- Prompt Engineering
 
 ## Backend & Databases
 - FastAPI
@@ -138,6 +196,7 @@ Financial planning platform for mortgage and property simulation.
 - REST APIs
 - PostgreSQL
 - SQLite
+- MySQL
 - JSON
 - YAML
 
@@ -149,6 +208,14 @@ Financial planning platform for mortgage and property simulation.
 - DNS
 - VPN
 - Firewalls
+- Routing & Switching
+
+## Operating Systems
+- Linux
+- Ubuntu
+- Debian
+- Rocky Linux
+- Windows Server
 
 ---
 
@@ -163,6 +230,9 @@ Financial planning platform for mortgage and property simulation.
 - REST API integrations
 - Linux server administration
 - Containerized services support
+- WSO2 platform support
+- CI/CD pipeline maintenance
+- Technical documentation
 
 ---
 
@@ -176,6 +246,26 @@ Project focused on accessibility and AI-assisted educational content adaptation.
 - OCR and AI-assisted workflows
 - Accessibility testing and improvements
 - Semantic HTML and ARIA support
+- Educational material adaptation
+- Assistive technology integration
+
+---
+
+# 🎓 Education
+
+## Universidade de Brasília (UnB)
+
+**Bachelor's Degree in Network & Communications Engineering**
+
+Expected Graduation: 2027
+
+---
+
+## UniCEUB
+
+**Bachelor's Degree in Computer Science**
+
+In Progress
 
 ---
 
@@ -195,6 +285,21 @@ Project focused on accessibility and AI-assisted educational content adaptation.
 - AI Infrastructure
 - Distributed Systems
 - Platform Engineering
+- MLOps
+- Cloud-Native Architectures
+
+---
+
+# 🎯 Areas of Interest
+
+- Infrastructure Engineering
+- Platform Engineering
+- DevOps
+- Artificial Intelligence
+- Networking
+- Cybersecurity
+- Cloud Computing
+- Accessibility Technologies
 
 ---
 
@@ -204,3 +309,6 @@ Project focused on accessibility and AI-assisted educational content adaptation.
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/alvaro-marcal-dearaujo/
+
+💻 GitHub:
+https://github.com/Alvaromra
