@@ -77,22 +77,6 @@ AI-powered document processing platform focused on local and private environment
 
 ---
 
-## 🧠 SalaryAI Suite — AI Salary Prediction Engine
-
-Self-learning platform for salary prediction and intelligent data analysis.
-
-### Features
-- Continuous retraining
-- Performance dashboards
-- Modular backend
-- Local AI model support
-- Dataset expansion pipeline
-
-### Technologies
-`Python` `Flask` `SQLite` `GGUF` `LoRA`
-
----
-
 ## 🛡️ ALVSafe Antivirus
 
 Cross-platform antivirus and endpoint protection platform developed in Python.
@@ -147,20 +131,6 @@ Research concept focused on intelligent public transportation monitoring using e
 
 ### Technologies
 `Python` `GPS` `AI` `Networking` `IoT` `6G`
-
----
-
-## 🏠 Primeiro-Imovel-Pro
-
-Financial planning platform for mortgage and property simulation.
-
-### Features
-- Financing simulation
-- Financial projections
-- Planning calculations
-
-### Technologies
-`Python`
 
 ---
 
