@@ -55,19 +55,19 @@ Document scanning and analysis that runs **100% locally**: text is extracted, in
 
 ## 🔐 Facial Recognition Access Control (IoT)
 
-Smart access control system using facial recognition and a distributed IoT architecture with edge computing.
+Access control system that unlocks a commercial smart lock after recognizing an authorized face. A PIR sensor triggers capture, an ESP32-CAM takes the picture, a local server runs face recognition and the lock is opened through the Tuya Cloud API.
 
-> Repository coming soon.
-<!-- TODO: publish the repository and add the link here -->
+🔗 **Repository:** [github.com/Alvaromra/controle-acesso-facial-iot](https://github.com/Alvaromra/controle-acesso-facial-iot)
 
 ### Features
-- Face recognition with DeepFace running at the edge
-- ESP32-CAM image capture
-- Smart lock control through the Tuya Cloud API (Intelbras IFR 7001)
-- Flask web dashboard for monitoring, model training and device management
+- Face recognition with DeepFace (Facenet512) on a local inference server
+- PIR presence sensor (ESP32 DevKit) publishing over MQTT, so recognition only runs when someone is present
+- Image quality filter, face detection and majority voting across 3 captures before unlocking
+- Smart lock control through the Tuya Cloud API (Intelbras IFR 7001 over Zigbee)
+- Flask dashboard for enrollment, model training, device status and access logs, with optional login
 
 ### Technologies
-`Python` `DeepFace` `ESP32-CAM` `Flask` `Tuya Cloud API` `Edge Computing` `IoT`
+`Python` `DeepFace` `OpenCV` `Flask` `MQTT` `ESP32-CAM` `ESP32` `C++` `Tuya Cloud API` `IoT`
 
 ---
 
