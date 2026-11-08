@@ -1,18 +1,18 @@
-<h1 align="center">Alvaro Marcal de Araujo</h1>
+<h1 align="center">Álvaro Marçal de Araujo</h1>
 
 <p align="center">
-  <strong>Infrastructure • DevOps • Networking • AI Systems</strong>
+  <strong>Infrastructure | DevOps | Networking | AI Systems</strong>
 </p>
 
 <p align="center">
   Network & Communications Engineering Student @ UnB <br>
   Computer Science Student @ UniCEUB <br>
-  Brasília, DF — Brazil
+  Brasília, DF, Brazil
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alvaro-marcal-dearaujo/">LinkedIn</a> •
-  <a href="https://github.com/Alvaromra">GitHub</a>
+  <a href="https://www.linkedin.com/in/alvaro-marcal-dearaujo/">LinkedIn</a> |
+  <a href="mailto:alvaromra2@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -23,23 +23,59 @@
 
 # 👨‍💻 About Me
 
-Network & Communications Engineering student at the Universidade de Brasília (UnB) and Computer Science student at UniCEUB.
+I build and operate infrastructure and AI systems. At Heiliger, I **cut deployment time from 2 hours to 15 minutes** with CI/CD pipelines (Jenkins and Ansible) on Red Hat OpenShift. On the AI side, I build RAG systems on local LLMs and automation workflows with n8n, and my undergraduate thesis is on Large Language Models (LLMs).
 
-Experience in Infrastructure, DevOps, Systems Integration, Accessibility Technologies and AI-powered applications.
+I study Network & Communications Engineering at the University of Brasília (UnB) and Computer Science at UniCEUB, and I contribute to extension projects in AI and digital accessibility.
 
-Currently working with Linux environments, containerized services, automation pipelines, WSO2 platforms, cloud-native tools and local AI systems.
-
-Active contributor to academic and extension projects involving Artificial Intelligence, Digital Accessibility, Document Processing and Educational Technology.
-
-Interested in Infrastructure Engineering, Platform Engineering, DevOps, Networking and Applied Artificial Intelligence.
+Interested in Infrastructure and Platform Engineering, DevOps, Networking, Applied AI and Cybersecurity (including CTFs).
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎵 Spotify PiP Lyrics — Real-Time Floating Lyrics Overlay
+## 📄 DocsScanAI: Local Document Intelligence Platform
+
+Document scanning and analysis that runs **100% locally**: text is extracted, indexed on your machine and answered by an offline LLM through Ollama. Nothing is sent to external services, so it can handle sensitive documents such as contracts and resumes.
+
+🔗 **Repository:** [github.com/Alvaromra/DocsScanAI](https://github.com/Alvaromra/DocsScanAI)
+
+### Features
+- Text extraction from PDF, DOCX, CSV, XLSX, TXT, JSON, HTML and logs
+- Pattern detection (emails, CPF, CNPJ, phones, URLs, dates and monetary values)
+- Language and entity recognition with spaCy (Portuguese and English)
+- RAG question answering over your documents (lemma and character n-gram search, TF-IDF index, context sent to a local LLM)
+- Export to CSV, XLSX, JSON, TXT, PDF and DOCX
+- Custom model training pipeline with LoRA and GGUF conversion
+- Flask web app with chat, FastAPI + PostgreSQL API and Docker Compose deployment
+
+### Technologies
+`Python` `FastAPI` `Flask` `PostgreSQL` `Docker` `Ollama` `RAG` `spaCy`
+
+---
+
+## 🔐 Facial Recognition Access Control (IoT)
+
+Smart access control system using facial recognition and a distributed IoT architecture with edge computing.
+
+> Repository coming soon.
+<!-- TODO: publish the repository and add the link here -->
+
+### Features
+- Face recognition with DeepFace running at the edge
+- ESP32-CAM image capture
+- Smart lock control through the Tuya Cloud API (Intelbras IFR 7001)
+- Flask web dashboard for monitoring, model training and device management
+
+### Technologies
+`Python` `DeepFace` `ESP32-CAM` `Flask` `Tuya Cloud API` `Edge Computing` `IoT`
+
+---
+
+## 🎵 Spotify PiP Lyrics: Real-Time Floating Lyrics Overlay
 
 Desktop application that displays synchronized Spotify lyrics in a floating Picture-in-Picture (PiP) window, providing a lightweight and distraction-free music experience.
+
+🔗 **Repository:** [github.com/Alvaromra/spotify-pip-lyrics](https://github.com/Alvaromra/spotify-pip-lyrics)
 
 ### Features
 - Real-time Spotify playback detection
@@ -58,48 +94,31 @@ Desktop application that displays synchronized Spotify lyrics in a floating Pict
 
 ---
 
-## 📄 ScanDocs AI — Local Document Intelligence Platform
+## 🛡️ AlvSafe: Antivirus and Endpoint Protection
 
-AI-powered document processing platform focused on local and private environments.
+Antivirus and endpoint protection in Python, with a command line and a graphical interface. Educational and research project in defensive security, not a replacement for a commercial antivirus.
+
+🔗 **Repository:** [github.com/Alvaromra/AlvSafe](https://github.com/Alvaromra/AlvSafe)
 
 ### Features
-- PDF, DOCX, CSV, XLSX, JSON and TXT processing
-- Intelligent pattern extraction
-- RAG architecture with automatic reindexing
-- Local LLM integration via Ollama
-- LoRA/GGUF training compatibility
-- Floating AI assistant interface
-- FastAPI + Flask + PostgreSQL architecture
-- Docker Compose deployment
+- On-demand file and folder scanning that combines known SHA-256 hashes, heuristics, YARA rules, entropy and optional VirusTotal into a threat score
+- Real-time protection on monitored folders
+- Ransomware behavior detection (write bursts and suspicious extensions)
+- Neutralized quarantine with restore and integrity check
+- Process and network connection monitors (alert only)
+- Environment diagnostics with `alvsafe doctor`
+- Linux and macOS support (Windows planned)
 
 ### Technologies
-`Python` `FastAPI` `Flask` `PostgreSQL` `Docker` `Ollama` `RAG`
+`Python` `YARA` `Watchdog` `VirusTotal API` `GitHub Actions`
 
 ---
 
-## 🛡️ ALVSafe Antivirus
+## ♿ Exata Falada: AI & Digital Accessibility Platform
 
-Cross-platform antivirus and endpoint protection platform developed in Python.
+Academic extension project at UnB focused on making educational materials more accessible through Artificial Intelligence and assistive technologies.
 
-### Features
-- File scanning engine
-- Heuristic malware detection
-- YARA rule integration
-- Real-time monitoring
-- Ransomware protection
-- Quarantine management
-- Web dashboard and GUI
-- Basic firewall module
-- VirusTotal integration
-
-### Technologies
-`Python` `YARA` `Flask` `SQLite` `Watchdog`
-
----
-
-## ♿ Exata Falada — AI & Digital Accessibility Platform
-
-Academic extension project focused on making educational materials more accessible through Artificial Intelligence and assistive technologies.
+**My role:** volunteer contributor, validating and testing the platform, including the accuracy of mathematical expression parsing and the structured HTML output used by assistive technologies.
 
 ### Features
 - OCR-based document processing
@@ -152,9 +171,10 @@ Research concept focused on intelligent public transportation monitoring using e
 
 ## AI & Automation
 - Python
-- LLMs
+- LLMs and LLM architectures (Transformers, self-attention, embeddings, encoder and decoder models)
 - Ollama
 - RAG
+- n8n
 - TF-IDF
 - GGUF
 - LoRA
@@ -164,6 +184,8 @@ Research concept focused on intelligent public transportation monitoring using e
 - FastAPI
 - Flask
 - REST APIs
+- GraphQL
+- WSO2
 - PostgreSQL
 - SQLite
 - MySQL
@@ -177,8 +199,15 @@ Research concept focused on intelligent public transportation monitoring using e
 - BGP
 - DNS
 - VPN
-- Firewalls
+- Reverse proxies
+- Firewalls (pfSense, iptables)
 - Routing & Switching
+
+## Security & Monitoring
+- CTF (Capture the Flag)
+- Kali Linux, Nmap, John the Ripper, Hashcat
+- Wireshark, tcpdump
+- Zabbix, Prometheus, Grafana
 
 ## Operating Systems
 - Linux
@@ -191,33 +220,45 @@ Research concept focused on intelligent public transportation monitoring using e
 
 # 🏢 Experience
 
-## Infrastructure & DevOps Intern
+## Infrastructure, Networking & DevOps Intern
 **Heiliger Tecnologia e Software**  
-*Apr 2025 — Mar 2026*
+*Apr 2025 to Mar 2026*
 
-- Infrastructure support and troubleshooting
-- Deployment automation using Ansible
-- REST API integrations
-- Linux server administration
-- Containerized services support
-- WSO2 platform support
-- CI/CD pipeline maintenance
+- Cut deployment time from 2 hours to 15 minutes with CI/CD pipelines (Jenkins and Ansible), deploying on Red Hat OpenShift
+- Automated provisioning of VPCs, VPNs, DNS and reverse proxies; supported Nginx, Apache, MySQL and JFrog environments
+- Linux server administration, containerized services support and troubleshooting
+- REST API integrations and WSO2 platform support
 - Technical documentation
 
 ---
 
-## Volunteer — Exata Falada Project (AI & Digital Accessibility)
+## AI Workflow Automation
+**Pipefy** (remote)  
+*Oct 2025*
+
+- Built automation workflows and AI-integrated chatbots with n8n
+- Customer Success chatbot using Google Sheets as the knowledge base
+- Integrated Python scripts with GraphQL APIs
+
+---
+
+## Volunteer: Exata Falada Project (AI & Digital Accessibility)
 **Universidade de Brasília (UnB)**  
-*2026 — Present*
+*Apr 2026 to Present*
 
-Project focused on accessibility and AI-assisted educational content adaptation.
-
-- Accessible HTML validation
+- Accessible HTML validation and accessibility testing
 - OCR and AI-assisted workflows
-- Accessibility testing and improvements
 - Semantic HTML and ARIA support
 - Educational material adaptation
-- Assistive technology integration
+
+---
+
+## Teaching Assistant: Computer Network Fundamentals
+**Universidade de Brasília (UnB)**  
+*Mar 2024 to Aug 2024 | Mar 2026 to Present*
+
+- Created exercises and teaching materials
+- Supported TCP/IP and network infrastructure classes, labs and review sessions
 
 ---
 
@@ -227,7 +268,7 @@ Project focused on accessibility and AI-assisted educational content adaptation.
 
 **Bachelor's Degree in Network & Communications Engineering**
 
-Expected Graduation: 2027
+Expected Graduation: December 2027 | Undergraduate thesis on Large Language Models (LLMs)
 
 ---
 
@@ -235,7 +276,7 @@ Expected Graduation: 2027
 
 **Bachelor's Degree in Computer Science**
 
-In Progress
+Expected Graduation: 2028
 
 ---
 
@@ -250,7 +291,6 @@ In Progress
 
 # 📚 Currently Learning
 
-- Kubernetes
 - Cloud Infrastructure
 - AI Infrastructure
 - Distributed Systems
